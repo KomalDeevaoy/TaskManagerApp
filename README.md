@@ -21,10 +21,18 @@ It allows adding, editing, deleting, and marking tasks as complete with real-tim
 
 
 ##  Project Structure
+
 Task-Manager-App/
+
 │── index.html 
+
 │── styles.css
+
 │── app.js
+
 │── img/
+
      |── Icons
+     
 │── README.md 
+
