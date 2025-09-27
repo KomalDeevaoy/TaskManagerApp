@@ -24,15 +24,17 @@ It allows adding, editing, deleting, and marking tasks as complete with real-tim
 
 Task-Manager-App/
 
+│── README.md
+|
 │── index.html 
-
+|
 │── styles.css
-
+|
 │── app.js
-
+|
 │── img/
-
+     |
      |── Icons
      
-│── README.md 
+ 
 
