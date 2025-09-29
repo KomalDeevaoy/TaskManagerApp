@@ -8,7 +8,7 @@ It allows adding, editing, deleting, and marking tasks as complete with real-tim
 - Add, edit, and delete tasks easily.
 - Mark tasks as complete with a checkbox.
 - Interactive **progress bar** showing completed vs total tasks.
--**Confetti animation** when all tasks are completed.
+- **Confetti animation** when all tasks are completed.
 - Persistent data storage using **localStorage**.
 - Responsive and minimal UI design.
 
